@@ -9,6 +9,7 @@ submission-packages
 .settings
 .gradle
 .DS_Store
+.idea
 videos
 bin
 build
